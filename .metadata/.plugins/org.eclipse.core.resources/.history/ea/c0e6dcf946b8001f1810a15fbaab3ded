@@ -1,0 +1,10 @@
+package javastring;
+
+public class StringBuiltinmethods {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

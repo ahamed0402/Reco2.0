@@ -1,0 +1,18 @@
+package javastring;
+
+public class StringBuiltinmethods {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String s = "ahamed";
+		String s1 = "ismail";
+		
+		
+		
+		s= s+s1;
+		System.out.println(s);
+
+	}
+
+}
